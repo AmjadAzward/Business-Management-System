@@ -1,6 +1,6 @@
 ##  Business Management System
 
-##  Overview
+Overview
 
 ---
 
