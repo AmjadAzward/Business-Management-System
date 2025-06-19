@@ -1,4 +1,4 @@
-##  Setup Instructions - Business Management System
+##  Business Management System
 
 ##  Overview
 
@@ -11,6 +11,8 @@ The Business Management System is a Windows-based desktop application built usin
 ![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20185157.png)
 
 ![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20182306.png)
+
+---
 
 ### Prerequisites
 
