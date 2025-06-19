@@ -1,0 +1,380 @@
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\RestSharp.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.CodeDom.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\RestSharp.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.CodeDom.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CEO.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Payments.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Register.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.COO.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Administartion.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Accountant.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.AssistantAccountant.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CustomerRelations.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Designer.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Factorymanager.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Productionmanager.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.QuantitySurveyor.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SalesExecutive.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Storekeeper.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Teamleader.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.TechnicalOfficer.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SalaryView.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.ClientView.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.OrganizationalView.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CEOp.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.pdb
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.xml
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SECp.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.AAccountantP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.AccountantP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.AdministrationP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.BudgetSubmit.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.COOp.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CostCalculation.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.QuantityP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SalesP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StaffAttendance.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StaffProfile.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalary.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalaryAssistant.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Teamleaderp.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.ClientViewcoo.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CustomerRelationsP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.DesignerP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryAvailability.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryAvailabilityTec.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.OrganizationalViewcoo.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.ProductionmanagerP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.RequestStocks.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.RequestStocksTec.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SalaryViewcoo.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalaryAcc.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StorekeeperP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.TechnicalOfficerP.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CalcClientAcc.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.CalcOrganAcc.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.StaffAttendanceA.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.FactoryManagerPr.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.MeetingInfo.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.MeetingSchedule.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.EmpAttendance.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\bin\Debug\stdole.dll
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryReq.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.test.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.FINrep.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.INVrep.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.MEETrep.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.ProjectReport.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.PRreport.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SALErep.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.SALrep.resources
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+C:\Users\USER\Desktop\Final\FinalProject\FinalProject\obj\Debug\FinalProject.Front.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\RestSharp.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Buffers.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.CodeDom.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Memory.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Json.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\RestSharp.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Buffers.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.CodeDom.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.pdb
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Memory.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Json.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AAccountantP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Accountant.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AccountantP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Administartion.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AdministrationP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AssistantAccountant.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.BudgetSubmit.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CalcClientAcc.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CEO.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CEOp.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ClientView.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ClientViewcoo.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.COO.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.COOp.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CostCalculation.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CustomerRelations.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CustomerRelationsP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Designer.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.DesignerP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.EmpAttendance.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Factorymanager.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FactoryManagerPr.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FINrep.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Front.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryAvailability.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryAvailabilityTec.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryReq.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.INVrep.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MeetingInfo.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MeetingSchedule.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MEETrep.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.OrganizationalView.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.OrganizationalViewcoo.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Productionmanager.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ProductionmanagerP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ProjectReport.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.PRreport.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.QuantityP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.QuantitySurveyor.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Register.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.RequestStocks.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.RequestStocksTec.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalaryView.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalaryViewcoo.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SALErep.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalesExecutive.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalesP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SALrep.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Payments.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SECp.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffAttendance.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CalcOrganAcc.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffAttendanceA.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffProfile.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalary.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalaryAcc.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalaryAssistant.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Storekeeper.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StorekeeperP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Teamleader.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Teamleaderp.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.TechnicalOfficer.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.TechnicalOfficerP.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.test.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\stdole.dll
+C:\Users\amjad\OneDrive\Documents\Custom Office Templates\OneDrive\Desktop\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\RestSharp.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Buffers.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.CodeDom.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Memory.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Json.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\stdole.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\RestSharp.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Buffers.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.CodeDom.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.pdb
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Drawing.Common.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Memory.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Text.Json.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AAccountantP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Accountant.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AccountantP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Administartion.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AdministrationP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.AssistantAccountant.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.BudgetSubmit.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CalcClientAcc.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CEO.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CEOp.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ClientView.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ClientViewcoo.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.COO.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.COOp.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CostCalculation.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CustomerRelations.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CustomerRelationsP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Designer.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.DesignerP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.EmpAttendance.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Factorymanager.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FactoryManagerPr.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FINrep.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Front.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryAvailability.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryAvailabilityTec.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryReq.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.INVrep.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MeetingInfo.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MeetingSchedule.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MEETrep.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.OrganizationalView.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.OrganizationalViewcoo.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Productionmanager.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ProductionmanagerP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.QuantityP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.QuantitySurveyor.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Register.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.RequestStocks.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.RequestStocksTec.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalaryView.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalaryViewcoo.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SALErep.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalesExecutive.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalesP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SALrep.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Payments.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SECp.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffAttendance.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.CalcOrganAcc.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffAttendanceA.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffProfile.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalary.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalaryAcc.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StaffSalaryAssistant.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Storekeeper.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.StorekeeperP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Teamleader.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Teamleaderp.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.TechnicalOfficer.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.TechnicalOfficerP.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.test.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form3.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\CRVsPackageLib.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\VsWebSite.Interop.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\EnvDTE.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.ProjectReport.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InventoryReport.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form5.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.InvR.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SalesRep.resources
+C:\Users\amjad\Documents\Final projects datas\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FinanceRep.resources

@@ -1,0 +1,2217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salesexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salesexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salesexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salesexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\coo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\coo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\coo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\coo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\assistantaccountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\assistantaccountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\calcclientacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\calcclientacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|c:\\users\\amjad\\onedrive\\documents\\custom office templates\\onedrive\\desktop\\final projects datas\\finalproject\\finalproject\\finalproject\\calcclientacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\calcclientacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\budgetsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\budgetsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\budgetsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\budgetsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\assistantaccountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\assistantaccountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\administrationp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\administrationp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\administrationp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\administrationp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\administartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\administartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\administartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\administartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\accountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\accountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\accountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\accountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\aaccountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\aaccountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\aaccountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\aaccountantp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffsalaryacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffsalaryacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffsalaryacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffsalaryacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\productionmanagerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productionmanagerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\secp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\secp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\secp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\secp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\technicalofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\technicalofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\invrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\invrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\customerrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\customerrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\customerrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\customerrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\factorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\factorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\invrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\invrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\crystalreport5.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\crystalreport5.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\crystalreport4.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\crystalreport4.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\projectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\projectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\projectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\projectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\crystalreport7.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\crystalreport7.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\clientviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\clientviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\prreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\prreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryreq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryreq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\organizationalviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\organizationalviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salaryviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salaryviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\technicalofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\technicalofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\calcorganacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\calcorganacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffsalaryassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffsalaryassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\productionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\requeststockstec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\requeststockstec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffsalaryassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffsalaryassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\requeststockstec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\requeststockstec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\requeststockstec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\requeststockstec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryavailabilitytec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryavailabilitytec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\inventoryavailabilitytec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\inventoryavailabilitytec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\teamleader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\teamleader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\factorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\factorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\productionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salerep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salerep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\productionmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productionmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\clientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\clientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\empattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\empattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\coo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\coo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\quantitysurveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\quantitysurveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\teamleader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\teamleader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salesexecutive.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salesexecutive.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salaryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\clientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\clientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\organizationalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\organizationalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\organizationalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\organizationalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\organizationalviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\organizationalviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\clientviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\clientviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salaryviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salaryviewcoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\empattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\empattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\coop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\coop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\coop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\coop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\ceop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ceop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\ceop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ceop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\calcorganacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\calcorganacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\storekeeperp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\storekeeperp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\storekeeperp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\storekeeperp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\designerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\designerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\designerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\designerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\productionmanagerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productionmanagerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\technicalofficerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\technicalofficerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\technicalofficerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\technicalofficerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\factorymanagerpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\factorymanagerpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\factorymanagerpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\factorymanagerpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\quantityp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\quantityp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\quantityp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\quantityp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\teamleaderp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\teamleaderp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\teamleaderp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\teamleaderp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\salesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\salesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\customerrelationsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\customerrelationsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\customerrelationsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\customerrelationsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\meetinginfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\meetinginfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\customerrelationsp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\customerrelationsp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\costcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\costcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\designer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\designer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\projectreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\projectreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\finrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\requeststocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\requeststocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\finalproject\\staffattendancea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67346B0B-FC4A-42EC-B1F1-29D542406CF5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\staffattendancea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": 44,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:47:03.698Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Register.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Register.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Register.cs",
+              "RelativeToolTip": "FinalProject\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:53:03.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Login.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Login.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Login.cs",
+              "RelativeToolTip": "FinalProject\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:16:44.864Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "COO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COO.cs",
+              "RelativeDocumentMoniker": "FinalProject\\COO.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COO.cs [Design]",
+              "RelativeToolTip": "FinalProject\\COO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:10:20.406Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CEO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEO.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CEO.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEO.cs [Design]",
+              "RelativeToolTip": "FinalProject\\CEO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:15:27.613Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssistantAccountant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AssistantAccountant.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AssistantAccountant.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AssistantAccountant.cs [Design]",
+              "RelativeToolTip": "FinalProject\\AssistantAccountant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:38:35.432Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Designer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Designer.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Designer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:40:50.901Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MeetingSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingSchedule.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MeetingSchedule.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\MeetingSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\MeetingSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:12:38.672Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TechnicalOfficer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\TechnicalOfficer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\TechnicalOfficer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\TechnicalOfficer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\TechnicalOfficer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:40:28.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Productionmanager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Productionmanager.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Productionmanager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Productionmanager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Productionmanager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:55:44.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Factorymanager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Factorymanager.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Factorymanager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Factorymanager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Factorymanager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:04:36.649Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Teamleader.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Teamleader.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Teamleader.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Teamleader.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Teamleader.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:52:32.744Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "QuantitySurveyor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\QuantitySurveyor.cs",
+              "RelativeDocumentMoniker": "FinalProject\\QuantitySurveyor.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\QuantitySurveyor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\QuantitySurveyor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:42:02.847Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesExecutive.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesExecutive.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalesExecutive.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesExecutive.cs [Design]",
+              "RelativeToolTip": "FinalProject\\SalesExecutive.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:31:14.204Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerRelations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelations.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CustomerRelations.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CustomerRelations.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CustomerRelations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:35:07.342Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Storekeeper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Storekeeper.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Storekeeper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Storekeeper.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Storekeeper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:03:01.439Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventoryAvailability.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailability.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryAvailability.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailability.cs [Design]",
+              "RelativeToolTip": "FinalProject\\InventoryAvailability.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:52:29.413Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InventoryReq.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryReq.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryReq.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\InventoryReq.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\InventoryReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:54:00.417Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RequestStocksTec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocksTec.cs",
+              "RelativeDocumentMoniker": "FinalProject\\RequestStocksTec.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\RequestStocksTec.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\RequestStocksTec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:59:50.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "InventoryAvailabilityTec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailabilityTec.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryAvailabilityTec.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\InventoryAvailabilityTec.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\InventoryAvailabilityTec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:59:34.183Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "EmpAttendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\EmpAttendance.cs",
+              "RelativeDocumentMoniker": "FinalProject\\EmpAttendance.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\EmpAttendance.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\EmpAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:25:22.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "StaffSalaryAssistant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAssistant.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffSalaryAssistant.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffSalaryAssistant.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffSalaryAssistant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:59:29.065Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StaffSalaryAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAcc.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffSalaryAcc.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAcc.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\StaffSalaryAcc.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:02:00.057Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CalcOrganAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcOrganAcc.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CalcOrganAcc.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CalcOrganAcc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CalcOrganAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:01:38.289Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalcClientAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcClientAcc.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CalcClientAcc.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcClientAcc.cs [Design]",
+              "RelativeToolTip": "FinalProject\\CalcClientAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:23:16.531Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ClientView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ClientView.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ClientView.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\ClientView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\ClientView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:26:30.432Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "OrganizationalView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\OrganizationalView.cs",
+              "RelativeDocumentMoniker": "FinalProject\\OrganizationalView.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\OrganizationalView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\OrganizationalView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:27:56.723Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SalaryView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalaryView.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalaryView.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SalaryView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SalaryView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:06:59.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "StaffProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffProfile.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffProfile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:51:29.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StaffAttendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffAttendance.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffAttendance.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffAttendance.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:51:05.62Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SalaryViewcoo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalaryViewcoo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalaryViewcoo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SalaryViewcoo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SalaryViewcoo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:46:17.362Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ClientViewcoo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ClientViewcoo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ClientViewcoo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\ClientViewcoo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\ClientViewcoo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:47:14.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrganizationalViewcoo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\OrganizationalViewcoo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\OrganizationalViewcoo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\OrganizationalViewcoo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\OrganizationalViewcoo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:36:53.648Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "InventoryReq.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryReq.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryReq.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryReq.Designer.cs",
+              "RelativeToolTip": "FinalProject\\InventoryReq.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:41:01.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Administartion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Administartion.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Administartion.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Administartion.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\Administartion.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:27:36.644Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CrystalReport3.rpt",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport3.rpt",
+              "RelativeDocumentMoniker": "FinalProject\\CrystalReport3.rpt",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport3.rpt",
+              "RelativeToolTip": "FinalProject\\CrystalReport3.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-13T08:24:32.757Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BudgetSubmit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\BudgetSubmit.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BudgetSubmit.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\BudgetSubmit.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\BudgetSubmit.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:09:10.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Accountant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Accountant.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Accountant.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Accountant.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\Accountant.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:50:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdministrationP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AdministrationP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AdministrationP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AdministrationP.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\AdministrationP.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:28:48.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Accountant.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Accountant.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Accountant.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Accountant.cs*",
+              "RelativeToolTip": "FinalProject\\Accountant.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:31:36.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountantP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AccountantP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AccountantP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AccountantP.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\AccountantP.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:47:59.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesExecutive.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesExecutive.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalesExecutive.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesExecutive.cs",
+              "RelativeToolTip": "FinalProject\\SalesExecutive.cs",
+              "ViewState": "AgIAAH0CAAAAAAAAAAArwIkCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:50:56.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalcClientAcc.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcClientAcc.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CalcClientAcc.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcClientAcc.cs",
+              "RelativeToolTip": "FinalProject\\CalcClientAcc.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:59:53.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "COO.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COO.cs",
+              "RelativeDocumentMoniker": "FinalProject\\COO.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COO.cs",
+              "RelativeToolTip": "FinalProject\\COO.cs",
+              "ViewState": "AgIAAOgBAAAAAAAAAAArwO8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:36:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BudgetSubmit.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\BudgetSubmit.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BudgetSubmit.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\BudgetSubmit.cs*",
+              "RelativeToolTip": "FinalProject\\BudgetSubmit.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:09:12.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AAccountantP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AAccountantP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AAccountantP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AAccountantP.cs [Design]*",
+              "RelativeToolTip": "FinalProject\\AAccountantP.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:03:21.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministrationP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AdministrationP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AdministrationP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AdministrationP.cs*",
+              "RelativeToolTip": "FinalProject\\AdministrationP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:42:50.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssistantAccountant.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AssistantAccountant.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AssistantAccountant.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AssistantAccountant.cs",
+              "RelativeToolTip": "FinalProject\\AssistantAccountant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:57:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StaffSalaryAcc.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAcc.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffSalaryAcc.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAcc.cs*",
+              "RelativeToolTip": "FinalProject\\StaffSalaryAcc.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:47:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "INVrep.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\INVrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\INVrep.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\INVrep.cs",
+              "RelativeToolTip": "FinalProject\\INVrep.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:17:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountantP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AccountantP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AccountantP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AccountantP.cs*",
+              "RelativeToolTip": "FinalProject\\AccountantP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:45:02.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Administartion.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Administartion.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Administartion.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Administartion.cs*",
+              "RelativeToolTip": "FinalProject\\Administartion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:06:18.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MeetingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingInfo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MeetingInfo.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingInfo.cs",
+              "RelativeToolTip": "FinalProject\\MeetingInfo.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAiwLMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:28:31.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "INVrep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\INVrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\INVrep.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\INVrep.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\INVrep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:24:22.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SECp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SECp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SECp.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SECp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SECp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:33:04.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MEETrep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MEETrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MEETrep.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\MEETrep.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\MEETrep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:03:54.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AAccountantP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AAccountantP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AAccountantP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\AAccountantP.cs*",
+              "RelativeToolTip": "FinalProject\\AAccountantP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:23:49.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MEETrep.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MEETrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MEETrep.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MEETrep.cs",
+              "RelativeToolTip": "FinalProject\\MEETrep.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:15:11.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StaffSalary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalary.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffSalary.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalary.cs [Design]",
+              "RelativeToolTip": "FinalProject\\StaffSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:26:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SECp.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SECp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SECp.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SECp.cs",
+              "RelativeToolTip": "FinalProject\\SECp.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAIwAcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:28:24.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MeetingInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingInfo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MeetingInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\MeetingInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\MeetingInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:12:55.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductionmanagerP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProductionmanagerP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProductionmanagerP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProductionmanagerP.cs [Design]",
+              "RelativeToolTip": "FinalProject\\ProductionmanagerP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:46:16.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CrystalReport5.rpt",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport5.rpt",
+              "RelativeDocumentMoniker": "FinalProject\\CrystalReport5.rpt",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport5.rpt",
+              "RelativeToolTip": "FinalProject\\CrystalReport5.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-13T12:13:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CrystalReport4.rpt",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport4.rpt",
+              "RelativeDocumentMoniker": "FinalProject\\CrystalReport4.rpt",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport4.rpt",
+              "RelativeToolTip": "FinalProject\\CrystalReport4.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-13T08:40:30.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerRelations.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelations.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CustomerRelations.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelations.cs",
+              "RelativeToolTip": "FinalProject\\CustomerRelations.cs",
+              "ViewState": "AgIAAKkEAAAAAAAAAAAowKwEAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:26:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CEO.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEO.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CEO.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEO.cs",
+              "RelativeToolTip": "FinalProject\\CEO.cs",
+              "ViewState": "AgIAAGcDAAAAAAAAAAAmwHgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Storekeeper.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Storekeeper.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Storekeeper.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Storekeeper.cs",
+              "RelativeToolTip": "FinalProject\\Storekeeper.cs",
+              "ViewState": "AgIAADYCAAAAAAAAAAAowEsCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:33:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProjectReport.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProjectReport.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProjectReport.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProjectReport.cs",
+              "RelativeToolTip": "FinalProject\\ProjectReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:50:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProjectReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProjectReport.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProjectReport.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\ProjectReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\ProjectReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:01:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "FinalProject\\CrystalReport1.rpt",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport1.rpt",
+              "RelativeToolTip": "FinalProject\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-13T08:07:28.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CrystalReport7.rpt",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport7.rpt",
+              "RelativeDocumentMoniker": "FinalProject\\CrystalReport7.rpt",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CrystalReport7.rpt",
+              "RelativeToolTip": "FinalProject\\CrystalReport7.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-12-10T04:39:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SalesP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalesP.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SalesP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SalesP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:16:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SALrep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SALrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SALrep.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SALrep.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SALrep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:14:32.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PRreport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\PRreport.cs",
+              "RelativeDocumentMoniker": "FinalProject\\PRreport.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\PRreport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\PRreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:23:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TechnicalOfficer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\TechnicalOfficer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\TechnicalOfficer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\TechnicalOfficer.cs",
+              "RelativeToolTip": "FinalProject\\TechnicalOfficer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAqwAABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:35:41.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "StaffSalaryAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAssistant.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffSalaryAssistant.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffSalaryAssistant.cs",
+              "RelativeToolTip": "FinalProject\\StaffSalaryAssistant.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAtwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:44:55.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SALrep.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SALrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SALrep.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SALrep.cs",
+              "RelativeToolTip": "FinalProject\\SALrep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:14:33.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RequestStocksTec.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocksTec.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\RequestStocksTec.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocksTec.Designer.cs",
+              "RelativeToolTip": "FinalProject\\RequestStocksTec.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:59:57.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "InventoryReq.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryReq.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryReq.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryReq.cs",
+              "RelativeToolTip": "FinalProject\\InventoryReq.cs",
+              "ViewState": "AgIAALgBAACAZWZmZuYjwA8CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:02:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "InventoryAvailabilityTec.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailabilityTec.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryAvailabilityTec.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailabilityTec.cs",
+              "RelativeToolTip": "FinalProject\\InventoryAvailabilityTec.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:39:23.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "InventoryAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailability.cs",
+              "RelativeDocumentMoniker": "FinalProject\\InventoryAvailability.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\InventoryAvailability.cs",
+              "RelativeToolTip": "FinalProject\\InventoryAvailability.cs",
+              "ViewState": "AgIAAA8BAAAAMzMzMzMqwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:43:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RequestStocksTec.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocksTec.cs",
+              "RelativeDocumentMoniker": "FinalProject\\RequestStocksTec.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocksTec.cs",
+              "RelativeToolTip": "FinalProject\\RequestStocksTec.cs",
+              "ViewState": "AgIAAD8CAAAAAAAAAAAqwF8CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:16:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Factorymanager.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Factorymanager.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Factorymanager.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Factorymanager.cs",
+              "RelativeToolTip": "FinalProject\\Factorymanager.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADgv5UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:18:20.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Productionmanager.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Productionmanager.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Productionmanager.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Productionmanager.cs",
+              "RelativeToolTip": "FinalProject\\Productionmanager.cs",
+              "ViewState": "AgIAAPMEAAAAZGZmZmYFwAcFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:15:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Front.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Front.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Front.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Front.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Front.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:38:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SALErep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SALErep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SALErep.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SALErep.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\SALErep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:31:11.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Register.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:51:17.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Front.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Front.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Front.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Front.cs",
+              "RelativeToolTip": "FinalProject\\Front.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:40:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Login.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:06:23.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Productionmanager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Productionmanager.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Productionmanager.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Productionmanager.Designer.cs",
+              "RelativeToolTip": "FinalProject\\Productionmanager.Designer.cs",
+              "ViewState": "AgIAAJgHAAAAAAAAAAAEwAEIAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:36:25.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Designer.cs",
+              "RelativeToolTip": "FinalProject\\Designer.cs",
+              "ViewState": "AgIAAAwDAAAAAAAAAAApwBIDAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:58:36.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "COO.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COO.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\COO.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COO.Designer.cs",
+              "RelativeToolTip": "FinalProject\\COO.Designer.cs",
+              "ViewState": "AgIAAGkMAAAAAAAAAAAgwHgMAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:46:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "OrganizationalViewcoo.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\OrganizationalViewcoo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\OrganizationalViewcoo.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\OrganizationalViewcoo.cs",
+              "RelativeToolTip": "FinalProject\\OrganizationalViewcoo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:41:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "StaffProfile.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffProfile.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffProfile.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffProfile.cs",
+              "RelativeToolTip": "FinalProject\\StaffProfile.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:01:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "SalaryView.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalaryView.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalaryView.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalaryView.cs",
+              "RelativeToolTip": "FinalProject\\SalaryView.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:41:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Teamleader.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Teamleader.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Teamleader.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Teamleader.cs",
+              "RelativeToolTip": "FinalProject\\Teamleader.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAQwMwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:07:05.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "SalaryViewcoo.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalaryViewcoo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalaryViewcoo.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalaryViewcoo.cs",
+              "RelativeToolTip": "FinalProject\\SalaryViewcoo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:30:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ClientViewcoo.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ClientViewcoo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ClientViewcoo.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ClientViewcoo.cs",
+              "RelativeToolTip": "FinalProject\\ClientViewcoo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:55:09.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ClientView.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ClientView.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ClientView.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ClientView.cs",
+              "RelativeToolTip": "FinalProject\\ClientView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:41:22.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "OrganizationalView.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\OrganizationalView.cs",
+              "RelativeDocumentMoniker": "FinalProject\\OrganizationalView.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\OrganizationalView.cs",
+              "RelativeToolTip": "FinalProject\\OrganizationalView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:14:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "SalesExecutive.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesExecutive.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalesExecutive.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesExecutive.Designer.cs",
+              "RelativeToolTip": "FinalProject\\SalesExecutive.Designer.cs",
+              "ViewState": "AgIAABACAACgmZmZmZkqwBoCAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:23:44.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "EmpAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\EmpAttendance.cs",
+              "RelativeDocumentMoniker": "FinalProject\\EmpAttendance.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\EmpAttendance.cs",
+              "RelativeToolTip": "FinalProject\\EmpAttendance.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:54:53.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "StaffAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffAttendance.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffAttendance.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffAttendance.cs",
+              "RelativeToolTip": "FinalProject\\StaffAttendance.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAASwDcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:54:54.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "COOp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COOp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\COOp.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\COOp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\COOp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:12:08.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "COOp.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COOp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\COOp.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\COOp.cs",
+              "RelativeToolTip": "FinalProject\\COOp.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswMgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:54:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "CEOp.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEOp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CEOp.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEOp.cs",
+              "RelativeToolTip": "FinalProject\\CEOp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:50:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "CEOp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CEOp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CEOp.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CEOp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CEOp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:38:09.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CalcOrganAcc.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcOrganAcc.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CalcOrganAcc.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CalcOrganAcc.cs",
+              "RelativeToolTip": "FinalProject\\CalcOrganAcc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:04:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "MeetingSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingSchedule.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MeetingSchedule.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingSchedule.cs",
+              "RelativeToolTip": "FinalProject\\MeetingSchedule.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:23:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DesignerP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\DesignerP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\DesignerP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\DesignerP.cs",
+              "RelativeToolTip": "FinalProject\\DesignerP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:33:04.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "SEC.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SEC.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SEC.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SEC.cs",
+              "RelativeToolTip": "FinalProject\\SEC.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAAApwNoBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:10:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "StorekeeperP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StorekeeperP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StorekeeperP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StorekeeperP.cs",
+              "RelativeToolTip": "FinalProject\\StorekeeperP.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:40:08.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "StorekeeperP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StorekeeperP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StorekeeperP.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StorekeeperP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StorekeeperP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:18:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "DesignerP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\DesignerP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\DesignerP.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\DesignerP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\DesignerP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:28:25.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "ProductionmanagerP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProductionmanagerP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProductionmanagerP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProductionmanagerP.cs",
+              "RelativeToolTip": "FinalProject\\ProductionmanagerP.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:13:34.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "TechnicalOfficerP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\TechnicalOfficerP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\TechnicalOfficerP.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\TechnicalOfficerP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\TechnicalOfficerP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:31:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "FactoryManagerPr.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\FactoryManagerPr.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FactoryManagerPr.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\FactoryManagerPr.cs",
+              "RelativeToolTip": "FinalProject\\FactoryManagerPr.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:40:46.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "TechnicalOfficerP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\TechnicalOfficerP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\TechnicalOfficerP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\TechnicalOfficerP.cs",
+              "RelativeToolTip": "FinalProject\\TechnicalOfficerP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:56:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "FactoryManagerPr.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\FactoryManagerPr.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FactoryManagerPr.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\FactoryManagerPr.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\FactoryManagerPr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:30:41.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "QuantityP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\QuantityP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\QuantityP.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\QuantityP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\QuantityP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:21:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Teamleaderp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Teamleaderp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Teamleaderp.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Teamleaderp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\Teamleaderp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:07:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "QuantityP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\QuantityP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\QuantityP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\QuantityP.cs",
+              "RelativeToolTip": "FinalProject\\QuantityP.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:08:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Teamleaderp.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Teamleaderp.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Teamleaderp.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Teamleaderp.cs",
+              "RelativeToolTip": "FinalProject\\Teamleaderp.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwKsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:48:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "SalesP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SalesP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\SalesP.cs",
+              "RelativeToolTip": "FinalProject\\SalesP.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:38:03.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "CustomerRelationsP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelationsP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CustomerRelationsP.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CustomerRelationsP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CustomerRelationsP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:22:15.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "CustomerRelationsP.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelationsP.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CustomerRelationsP.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelationsP.cs",
+              "RelativeToolTip": "FinalProject\\CustomerRelationsP.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:27:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "MeetingInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingInfo.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MeetingInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\MeetingInfo.Designer.cs",
+              "RelativeToolTip": "FinalProject\\MeetingInfo.Designer.cs",
+              "ViewState": "AgIAAPoBAAAAAAAAAAAMwAwCAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:29:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "CustomerRelationsP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelationsP.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CustomerRelationsP.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CustomerRelationsP.Designer.cs",
+              "RelativeToolTip": "FinalProject\\CustomerRelationsP.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAvwFgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:33:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "CostCalculation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\CostCalculation.cs",
+              "RelativeDocumentMoniker": "FinalProject\\CostCalculation.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CostCalculation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\CostCalculation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:22:22.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\packages.config",
+              "RelativeDocumentMoniker": "FinalProject\\packages.config",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\packages.config",
+              "RelativeToolTip": "FinalProject\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T18:30:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "Designer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Designer.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Designer.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\Designer.Designer.cs",
+              "RelativeToolTip": "FinalProject\\Designer.Designer.cs",
+              "ViewState": "AgIAANgBAAAAAAAAAADwvwQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:31:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "ProjectReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProjectReport.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProjectReport.Designer.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\ProjectReport.Designer.cs",
+              "RelativeToolTip": "FinalProject\\ProjectReport.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:38:20.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "FINrep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\FINrep.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FINrep.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\FINrep.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\FINrep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-13T08:40:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "test.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\test.cs",
+              "RelativeDocumentMoniker": "FinalProject\\test.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\test.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-11T00:44:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "RequestStocks.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocks.cs",
+              "RelativeDocumentMoniker": "FinalProject\\RequestStocks.cs",
+              "ToolTip": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\RequestStocks.cs",
+              "RelativeToolTip": "FinalProject\\RequestStocks.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:41:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "StaffAttendanceA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\OneDrive\\Documents\\Custom Office Templates\\OneDrive\\Desktop\\Final projects datas\\FinalProject\\FinalProject\\FinalProject\\StaffAttendanceA.cs",
+              "RelativeDocumentMoniker": "FinalProject\\StaffAttendanceA.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffAttendanceA.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\Final\\FinalProject\\FinalProject\\StaffAttendanceA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-08T07:52:02.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
