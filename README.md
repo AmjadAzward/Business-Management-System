@@ -1,14 +1,19 @@
 ##  Setup Instructions - Business Management System
 
-![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20182306.png)
-
-![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20185157.png)
-
-![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20191410.png)
+![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-12-09%20165558.png)
 
 ![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20191425.png)
 
-![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-12-09%20165558.png)
+![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20191410.png)
+
+![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20185157.png)
+
+![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20182306.png)
+
+
+
+
+
 
 
 
