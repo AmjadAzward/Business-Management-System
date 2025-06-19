@@ -1,5 +1,9 @@
 ##  Setup Instructions - Business Management System
 
+##  Overview
+
+The Business Management System is a Windows-based desktop application built using C# (Visual Studio) and SQL Server, integrated with Crystal Reports for reporting. It is designed for managing business operations of Kitchen & Bedroom Pvt Ltd, including database handling and reporting features.
+
 ![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20191425.png)
 
 ![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20191410.png)
