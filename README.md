@@ -1,7 +1,6 @@
 ##  Business Management System
 
 ## Overview
----
 
 The Business Management System is a Windows-based desktop application built using C# (Visual Studio) and SQL Server, integrated with Crystal Reports for reporting. It is designed for managing business operations of Kitchen & Bedroom Pvt Ltd, including database handling and reporting features.
 
