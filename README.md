@@ -8,13 +8,6 @@
 
 ![Business Management Screenshot](https://raw.githubusercontent.com/AmjadAzward/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20182306.png)
 
-
-
-
-
-
-
-
 ### Prerequisites
 
 - **Windows OS** (recommended for compatibility)
